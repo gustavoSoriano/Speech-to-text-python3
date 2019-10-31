@@ -1,13 +1,9 @@
-# Speech to text using python3
+# Text to Speech using python3
 
 ```
-    Simple demonstration how to do speech to text using python
+    Simple demonstration how to do text to speech using python
 ```
 
-## Install linux dependencies
-```
-    sudo apt-get install python-pyaudio python3-pyaudio ffmpeg libavcodec-extra -y
-```
 
 ## How to start project
 ```
